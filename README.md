@@ -1,24 +1,24 @@
-# Lazyvim101: [Preparing this guide ...]
+# Lazyvim101: [Preparing cheatsheet ...]
 
-Practical cheatsheet to get your lazyvim flow quick.
+Organized by tasks, A cheatsheet with essential lazyvim shortcuts and commands just to make ready to go.
 ```
-<leader> = space, means leader is space
+leader = space, means leader is space
 ```
 
-## LAZY MODES
+## Lazy Modes
 ```
 :            → Command mode
 Esc          → Normal mode. To navigate/command
 i            → Insert mode. To write text/code
 v            → Visual mode. To select text
-V            → Visual Line mode. To select line
-Ctrl-v       → Visual Block mode. To slect in block or column
+Sft+v        → Visual Line mode. To select line
+Ctrl+v       → Visual Block mode. To slect in block or column
 a            → Insert mode after cursor
 o            → Insert mode on new line below  
 ```
 ## File Explorer
 ```
-<leader>e   →  Open New tree explorer
+leader-e   →  Open New tree explorer
 ```
 ```
 l           → Open file, Expand/collapse Dir
@@ -27,16 +27,35 @@ d           → Delete
 r           → Rename
 H           → Toggle hidden files
 q           → Close explorer
-j, k        → Down / Up
-h           → Go to parent
+k, j        → Move up / down in neo tree
+h           → Go to parent directory
 ?           → Show Neo-tree keymaps
 /           → Filter/search files
 ```
 
 ## Terminal
 ```
-<leader>ft       → Terminal
-<leader>fT       → Terminal (current directory)
-Ctrl-\           → Toggle terminal
-Ctrl-\ Ctrl-n    → Exit terminal mode
+leader-ft       → Terminal
+leader-fT       → Terminal (current directory)
+Ctrl+/           → Toggle terminal
+Ctrl+\ Ctrl+n    → Exit terminal mode
+```
+
+## Files and buffer
+```
+leader-space    → Find/Open file
+leader-bd       → Close file/buffer
+Shift+h/l       → Previous/next buffer
+leader-,        → List open buffers
+leader-bb       → Go to privous opend file/buffer
+leader-bo       → Close other file/buffer
+
+```
+
+## Window navigation
+```
+Ctrl + h            → Toggle between file explorer and buffer window
+Ctrl + j            → Buffer window to terminal(if opened)
+Ctrl + j,k,l,h      → Move among windows (split windows)
+Ctrl + /            → Move to Terminal
 ```
