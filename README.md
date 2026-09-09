@@ -5,7 +5,7 @@ Organized by tasks, A cheatsheet with essential lazyvim shortcuts and commands j
 leader = space, means leader is space
 ```
 
-## Lazy Modes
+### Lazy Modes
 ```
 :            → Command mode
 Esc          → Normal mode. To navigate/command
@@ -16,7 +16,7 @@ Ctrl+v       → Visual Block mode. To slect in block or column
 a            → Insert mode after cursor
 o            → Insert mode on new line below  
 ```
-## File Explorer
+### File Explorer
 ```
 leader-e   →  Open New tree explorer
 ```
@@ -33,7 +33,7 @@ h           → Go to parent directory
 /           → Filter/search files
 ```
 
-## Terminal
+### Terminal
 ```
 leader-ft       → Terminal
 leader-fT       → Terminal (current directory)
@@ -41,7 +41,7 @@ Ctrl+/           → Toggle terminal
 Ctrl+\ Ctrl+n    → Exit terminal mode
 ```
 
-## Files and buffer
+### Files and buffer
 ```
 leader-space    → Find/Open file
 leader-bd       → Close file/buffer
@@ -52,7 +52,7 @@ leader-bo       → Close other file/buffer
 
 ```
 
-## Window navigation
+### Window navigation
 ```
 Ctrl + h            → Toggle between file explorer and buffer window
 Ctrl + j            → Buffer window to terminal(if opened)
