@@ -7,18 +7,18 @@ leader = space, means leader is space
 
 ## Lazy Modes
 ```
-:            → Command mode
-Esc          → Normal mode. To navigate/command
-i            → Insert mode. To write text/code
-v            → Visual mode. To select text
-Sft+v        → Visual Line mode. To select line
-Ctrl+v       → Visual Block mode. To slect in block or column
-a            → Insert mode after cursor
-o            → Insert mode on new line below  
+:                    → Command mode
+Esc                  → Normal mode. To navigate/command
+i                    → Insert mode. To write text/code
+v                    → Visual mode. To select text
+Sft+v                → Visual Line mode. To select line
+Ctrl+v               → Visual Block mode. To slect in block or column
+a                    → Insert mode after cursor
+o                    → Insert mode on new line below  
 ```
-## File Explorer
+## Neo-Tree File Explorer
 ```
-leader-e   →  Open New tree explorer
+leader-e   →  Open Neo tree file explorer
 ```
 ```
 l                    → Open file, Expand/collapse Dir
