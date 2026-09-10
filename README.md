@@ -1,7 +1,6 @@
 # Lazyvim Cheatsheet [Yet Preparing...]
 
-Organized by tasks, this quick cheatsheet with essential filtered lazyvim shortcuts to make ready for kayboard flow to work on project directory in lazy/neovim.  
-This shortcuts are organized the way from opening a project directory `nvim <dir path> or  nvim .`, navigating neo-tree explorer, buffer & using floating terminal from nvim, cursor movement, intracating with files and start writing/editing files.
+Organized by tasks, this quick cheatsheet with essential filtered lazyvim shortcuts to make ready for kayboard flow to work on project directory in lazy/neovim. This shortcuts are organized the way from opening a project directory `nvim <dir path> or  nvim .`, navigating neo-tree explorer, buffer & using floating terminal from nvim, cursor movement, intracating with files and start writing/editing files.
 ```
 leader = space, means leader is space
 ```
