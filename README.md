@@ -1,6 +1,7 @@
-# Lazyvim Cheatsheet: [Preparing ...]
+# Lazyvim Cheatsheet [Yet Preparing...]
 
-Organized by tasks, A quick cheatsheet guide with essential lazyvim shortcuts to make you ready to flow with Lazyvim
+Organized by tasks, this quick cheatsheet with essential filtered lazyvim shortcuts to make ready for kayboard flow to work on project directory in lazy/neovim.  
+This shortcuts are organized the way from opening a project directory `nvim <dir path> or  nvim .`, navigating neo-tree explorer, buffer & using floating terminal from nvim, cursor movement, intracating with files and start writing/editing files.
 ```
 leader = space, means leader is space
 ```
@@ -106,3 +107,5 @@ u                    → Undo
 Ctrl +               → Redo
 .                    → Repeat change
 ```
+
+At this point only practicing this shortcuts, will improve your lazyvim flow enough with keyboard daily.
