@@ -1,4 +1,4 @@
-# Lazyvim Cheatsheet: [Preparing cheatsheet ...]
+# Lazyvim Cheatsheet: [Preparing ...]
 
 Organized by tasks, A quick cheatsheet guide with essential lazyvim shortcuts to make you ready to flow with Lazyvim
 ```
