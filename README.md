@@ -1,6 +1,6 @@
-# Lazyvim101: [Preparing cheatsheet ...]
+# Lazyvim Cheatsheet: [Preparing cheatsheet ...]
 
-Organized by tasks, A quick cheatsheet guide with essential lazyvim shortcuts to make you ready to go.
+Organized by tasks, A quick cheatsheet guide with essential lazyvim shortcuts to make you ready to flow with Lazyvim
 ```
 leader = space, means leader is space
 ```
